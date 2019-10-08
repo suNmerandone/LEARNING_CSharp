@@ -3,3 +3,6 @@
 ################################################################################
 
 /LCConsoleApp/bin/Debug/netcoreapp3.0
+/LCConsoleApp/obj/Debug/netcoreapp3.0
+/LCConsoleApp/.vs/LCConsoleApp
+/.vs

@@ -9,8 +9,7 @@ namespace LCConsoleApp.Tests
 {
     public partial class LCProgramTests
     {
-        [TestClass()]
-        public class LCTests
+        public partial class LCTests
         {
             [TestMethod()]
             public void MincostTicketsTest_Return11()

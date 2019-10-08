@@ -10,6 +10,10 @@ namespace LCConsoleApp.Tests
     [TestClass()]
     public partial class LCProgramTests
     {
+        [TestClass()]
+        public partial class LCTests
+        {
+        }
     }
 }
 

@@ -8,3 +8,4 @@
 /.vs
 /LCConsoleAppTests/bin/Debug/netcoreapp3.0
 /LCConsoleAppTests/obj/Debug/netcoreapp3.0
+/LCConsoleAppTests/obj/Release/netcoreapp3.0

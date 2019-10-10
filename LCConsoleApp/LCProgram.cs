@@ -14,7 +14,8 @@ namespace LCConsoleApp
             //Console.WriteLine(result);
 
             LCProgram myLC = new LCProgram();
-            myLC.CalcDifferentIntegerCount(120);
+            //myLC.CalcDifferentIntegerCount(120);
+            myLC.GetMaxClockTime(1234);
         }
     }
 }

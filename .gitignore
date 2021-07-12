@@ -9,3 +9,7 @@
 /LCConsoleAppTests/bin/Debug/netcoreapp3.0
 /LCConsoleAppTests/obj/Debug/netcoreapp3.0
 /LCConsoleAppTests/obj/Release/netcoreapp3.0
+/LCConsoleApp/bin/Debug/netcoreapp3.1
+/LCConsoleApp/obj/Debug/netcoreapp3.1
+/LCConsoleApp/obj/Release/netcoreapp3.1
+/LCConsoleAppTests/bin

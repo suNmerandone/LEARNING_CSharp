@@ -1,34 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj": {}
+    "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj": {
+    "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
+        "projectUniqueName": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
         "projectName": "LCConsoleAppTests",
-        "projectPath": "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
-        "packagesPath": "C:\\Users\\6932k\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\obj\\",
+        "projectPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
+        "packagesPath": "C:\\Users\\SeCret\\.nuget\\packages\\",
+        "outputPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\6932k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SeCret\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
-                "projectPath": "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj"
+              "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
+                "projectPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj"
               }
             }
           }
@@ -40,25 +44,26 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.0.0, )"
+              "version": "[2.2.5, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.0.0, )"
+              "version": "[2.2.5, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.3.0, )"
+              "version": "[16.10.0, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[3.0.3, )"
             },
             "xunit.extensibility.execution": {
               "target": "Package",
@@ -80,32 +85,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
+    "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
+        "projectUniqueName": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
         "projectName": "LCConsoleApp",
-        "projectPath": "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\6932k\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6932k\\source\\repos\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\obj\\",
+        "projectPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\SeCret\\.nuget\\packages\\",
+        "outputPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\6932k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SeCret\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -116,7 +125,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -132,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

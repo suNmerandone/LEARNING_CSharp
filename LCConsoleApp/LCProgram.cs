@@ -16,6 +16,7 @@ namespace LCConsoleApp
             LCProgram myLC = new LCProgram();
             //myLC.CalcDifferentIntegerCount(120);
             //myLC.GetMaxClockTime(1234);
+            //myLC.SortString("rat");
 
             CodilitySolution mySol = new CodilitySolution();
             //int[] A = { 1, 1, -3 };

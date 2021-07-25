@@ -6310,11 +6310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
+      "projectUniqueName": "F:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
       "projectName": "LCConsoleAppTests",
-      "projectPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
+      "projectPath": "F:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
       "packagesPath": "C:\\Users\\SeCret\\.nuget\\packages\\",
-      "outputPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\obj\\",
+      "outputPath": "F:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6334,8 +6334,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
-              "projectPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj"
+            "F:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
+              "projectPath": "F:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj"
             }
           }
         }
@@ -6388,7 +6388,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

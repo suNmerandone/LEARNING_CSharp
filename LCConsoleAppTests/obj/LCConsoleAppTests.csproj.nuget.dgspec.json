@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj": {}
+    "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj": {}
   },
   "projects": {
-    "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj": {
+    "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
+        "projectUniqueName": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
         "projectName": "LCConsoleAppTests",
-        "projectPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
-        "packagesPath": "C:\\Users\\SeCret\\.nuget\\packages\\",
-        "outputPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleAppTests\\obj\\",
+        "projectPath": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\LCConsoleAppTests.csproj",
+        "packagesPath": "C:\\Users\\6932k\\.nuget\\packages\\",
+        "outputPath": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleAppTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\SeCret\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\6932k\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
-                "projectPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj"
+              "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
+                "projectPath": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj"
               }
             }
           }
@@ -85,24 +82,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
+    "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
+        "projectUniqueName": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
         "projectName": "LCConsoleApp",
-        "projectPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\SeCret\\.nuget\\packages\\",
-        "outputPath": "G:\\Programmer\\Repository\\Git\\LEARNING_CSharp\\LCConsoleApp\\obj\\",
+        "projectPath": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\6932k\\.nuget\\packages\\",
+        "outputPath": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\SeCret\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\6932k\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

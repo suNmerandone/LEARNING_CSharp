@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\6932k\\.nuget\\packages\\": {}
+    "C:\\Users\\SeCret\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
+      "projectUniqueName": "F:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
       "projectName": "LCConsoleApp",
-      "projectPath": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\6932k\\.nuget\\packages\\",
-      "outputPath": "D:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\obj\\",
+      "projectPath": "F:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\LCConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\SeCret\\.nuget\\packages\\",
+      "outputPath": "F:\\Programmer\\Repositories\\suNmerandone\\LEARNING_CSharp\\LCConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\6932k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SeCret\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
